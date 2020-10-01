@@ -30,10 +30,10 @@ make install
 make build
 ```
 
-Generated html are in the `output` directory
+Generated html are in the `output` directory,please go in the output directory.
 
 
-## Developement
+## Development
 
 ### Serve website locally
 
@@ -41,11 +41,12 @@ Generated html are in the `output` directory
 make serve
 ```
 
-### Create a page
+### Create a new page
 
 ```bash
 make page
 ```
+"THANK YOU FOR GIVING ME YOUR PRECIOUS TIME"
 
 The new page will be created in the `pages` directory
 
